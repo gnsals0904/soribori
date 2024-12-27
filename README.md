@@ -1,6 +1,6 @@
 # Soribori 🎶
 
-<img src="https://github.com/gnsals0904/soribori/assets/48405500/cbe473e4-56c1-4b15-86e2-4687ba879c7b" alt="mainpage" width="350"/>
+<img src="asset/welcome.png" alt="mainpage" width="350"/>
 
 - 소리보리
 - 청각장애인들을 위한 소리시각화 앱
@@ -65,10 +65,10 @@ https://blog.naver.com/gnsals0904/223469383698
 <br/>
 
 ## 개발 과정 - ML
-![dev](https://github.com/gnsals0904/soribori/assets/48405500/50443b3c-7409-41f4-be62-c79d4b62bc58)
-![dev2](https://github.com/gnsals0904/soribori/assets/48405500/55bf52b8-d667-4d50-9048-03eaf42c31b4)
+![dev](asset/dev.PNG)
+![dev2](asset/dev2.PNG)
 
 ## 앱 화면 구성
-![app0](https://github.com/gnsals0904/soribori/assets/48405500/aff131cd-21bc-44a0-a984-7b3e5bae7837)
-![app1](https://github.com/gnsals0904/soribori/assets/48405500/d1579f69-9ae2-46d8-8f07-c2320e296a77)
-![app2](https://github.com/gnsals0904/soribori/assets/48405500/77ffca38-4553-451b-8a39-079dd7e9d370)
+![app0](asset/app0.PNG)
+![app1](asset/app1.PNG)
+![app2](asset/app2.PNG)
